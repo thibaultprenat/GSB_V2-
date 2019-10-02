@@ -1,2 +1,2 @@
 # GSB_V2-
-Logiciel de gestion.
+Bienvenue sur le code source du logiciel GSB_V2
