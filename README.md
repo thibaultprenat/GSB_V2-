@@ -1,2 +1,2 @@
 # GSB_V2-
-Logiciel de gestion
+Logiciel de gestion.
